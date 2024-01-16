@@ -41,10 +41,6 @@ body {
 
 /* Contacto */
 
-#Contacto form label {
-    font-weight: 700;
-    color: #373a3c;
-}
 
 @media (max-width: 768px) {
     #Contacto form label {
@@ -55,4 +51,12 @@ body {
         width: 100px;
     }
 
+}
+
+.portafolio {
+    background-color: #FFEE12;
+}
+
+.footer {
+    background-color: #FC02BF;
 }
