@@ -1,5 +1,6 @@
 body {
     font-family: "Raleway", sans-serif;
+    margin: 0;
 }
 
 .nav-conteiner {
@@ -22,6 +23,11 @@ body {
 }
 .logo {
     color: #FC02BF;
+}
+
+.education{
+    background-color: #FFEE12;
+    background-size: cover;
 }
 
 /* Mis trabajos */
